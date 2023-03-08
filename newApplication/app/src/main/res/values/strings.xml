@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">new Application</string>
+    <string name="increase">增加計數</string>
+    <string name="btnzero">歸零</string>
+</resources>
